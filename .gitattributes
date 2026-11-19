@@ -1,0 +1,3 @@
+*.png binary
+*.gif binary
+*.json text eol=lf
